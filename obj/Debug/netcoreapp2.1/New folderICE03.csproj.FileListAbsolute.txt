@@ -1,0 +1,11 @@
+C:\Users\xamarin_2355\Documents\New folderICE03\obj\Debug\netcoreapp2.1\New folderICE03.csprojAssemblyReference.cache
+C:\Users\xamarin_2355\Documents\New folderICE03\obj\Debug\netcoreapp2.1\New folderICE03.csproj.CoreCompileInputs.cache
+C:\Users\xamarin_2355\Documents\New folderICE03\obj\Debug\netcoreapp2.1\New folderICE03.AssemblyInfoInputs.cache
+C:\Users\xamarin_2355\Documents\New folderICE03\obj\Debug\netcoreapp2.1\New folderICE03.AssemblyInfo.cs
+C:\Users\xamarin_2355\Documents\New folderICE03\bin\Debug\netcoreapp2.1\New folderICE03.deps.json
+C:\Users\xamarin_2355\Documents\New folderICE03\bin\Debug\netcoreapp2.1\New folderICE03.runtimeconfig.json
+C:\Users\xamarin_2355\Documents\New folderICE03\bin\Debug\netcoreapp2.1\New folderICE03.runtimeconfig.dev.json
+C:\Users\xamarin_2355\Documents\New folderICE03\bin\Debug\netcoreapp2.1\New folderICE03.dll
+C:\Users\xamarin_2355\Documents\New folderICE03\bin\Debug\netcoreapp2.1\New folderICE03.pdb
+C:\Users\xamarin_2355\Documents\New folderICE03\obj\Debug\netcoreapp2.1\New folderICE03.dll
+C:\Users\xamarin_2355\Documents\New folderICE03\obj\Debug\netcoreapp2.1\New folderICE03.pdb
